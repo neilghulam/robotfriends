@@ -1,15 +1,15 @@
 {
-  "main.css": "/github.io/robotfriends/static/css/main.52adff96.chunk.css",
-  "main.js": "/github.io/robotfriends/static/js/main.6471ce3b.chunk.js",
-  "main.js.map": "/github.io/robotfriends/static/js/main.6471ce3b.chunk.js.map",
-  "static/css/1.99740a3b.chunk.css": "/github.io/robotfriends/static/css/1.99740a3b.chunk.css",
-  "static/js/1.ace76f53.chunk.js": "/github.io/robotfriends/static/js/1.ace76f53.chunk.js",
-  "static/js/1.ace76f53.chunk.js.map": "/github.io/robotfriends/static/js/1.ace76f53.chunk.js.map",
-  "runtime~main.js": "/github.io/robotfriends/static/js/runtime~main.9dadcc11.js",
-  "runtime~main.js.map": "/github.io/robotfriends/static/js/runtime~main.9dadcc11.js.map",
-  "static/css/1.99740a3b.chunk.css.map": "/github.io/robotfriends/static/css/1.99740a3b.chunk.css.map",
-  "static/css/main.52adff96.chunk.css.map": "/github.io/robotfriends/static/css/main.52adff96.chunk.css.map",
-  "index.html": "/github.io/robotfriends/index.html",
-  "precache-manifest.3df7f648feb254b69b23bdc998b6a0ad.js": "/github.io/robotfriends/precache-manifest.3df7f648feb254b69b23bdc998b6a0ad.js",
-  "service-worker.js": "/github.io/robotfriends/service-worker.js"
+  "main.css": "/robotfriends/static/css/main.52adff96.chunk.css",
+  "main.js": "/robotfriends/static/js/main.d9ac02e9.chunk.js",
+  "main.js.map": "/robotfriends/static/js/main.d9ac02e9.chunk.js.map",
+  "static/css/1.99740a3b.chunk.css": "/robotfriends/static/css/1.99740a3b.chunk.css",
+  "static/js/1.ace76f53.chunk.js": "/robotfriends/static/js/1.ace76f53.chunk.js",
+  "static/js/1.ace76f53.chunk.js.map": "/robotfriends/static/js/1.ace76f53.chunk.js.map",
+  "runtime~main.js": "/robotfriends/static/js/runtime~main.03699361.js",
+  "runtime~main.js.map": "/robotfriends/static/js/runtime~main.03699361.js.map",
+  "static/css/1.99740a3b.chunk.css.map": "/robotfriends/static/css/1.99740a3b.chunk.css.map",
+  "static/css/main.52adff96.chunk.css.map": "/robotfriends/static/css/main.52adff96.chunk.css.map",
+  "index.html": "/robotfriends/index.html",
+  "precache-manifest.60f5b6cc8f88d01c619c8980ecdad0e0.js": "/robotfriends/precache-manifest.60f5b6cc8f88d01c619c8980ecdad0e0.js",
+  "service-worker.js": "/robotfriends/service-worker.js"
 }
