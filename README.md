@@ -1,16 +1,8 @@
 # Robot Friends
 
 A simple interactive react app that uses the robofriends api for the robot images.
-![robotfriends](/robotfriends/rbproject.png)
-
-
-
-
-
-## Credits: 
-robofriends API.
-
-## License: 
+![robotfriends](/rbproject.png)
+ 
 
 
 
