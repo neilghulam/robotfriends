@@ -1,3 +1,28 @@
+# Robot Friends
+
+A simple interactive react app that uses the robofriends api for the robot images.
+![robotfriends](/robotfriends/rbproject.png)
+
+
+
+
+
+## Credits: 
+robofriends API.
+
+## License: 
+
+
+
+
+
+
+
+
+-----------
+
+
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
